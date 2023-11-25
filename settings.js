@@ -17,7 +17,7 @@ global.APIKeys = {
 
 //AUTO FUNCTIONS ( 📵 DONT EDIT 📵 ) ITS FOR NEXT UPDATE
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true//auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autobio = false  // auto bio system checking on Developing Leval
@@ -43,7 +43,7 @@ global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
+global.owner = ['94729450909']
 global.ownertag = '94711421243' //ur tag number
 global.botnumber = '94764679736' //Add your Bot Number For Log
 global.botname = 'CYBER-X BETA EDITION' //ur bot name
